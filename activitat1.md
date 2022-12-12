@@ -29,6 +29,11 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
   -  ![image](https://user-images.githubusercontent.com/114423260/207118261-febb1c7c-0a2a-408b-a2a0-6132d46a3713.png)
     
    ![image](https://user-images.githubusercontent.com/114423260/207124475-06679882-78fc-4664-a8cc-e4f28ce30ce4.png)
+   
+   ![image](https://user-images.githubusercontent.com/114423260/207125157-7c9beed0-5284-498f-82a3-9b38c1b9a462.png)
+
+![image](https://user-images.githubusercontent.com/114423260/207125448-5e2600ac-0d6f-48ba-ad5d-b359a06bc6c0.png)
+
 
 - Documentar els problemes que hem tingut durant la instal·lació (2 punts).
   -   Com hem sapigut quina versió de PHP instal·lar (1p).
