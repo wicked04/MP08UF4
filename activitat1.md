@@ -14,6 +14,8 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
 
   -   Instal·lació BBDD (1p).
   -  ![image](https://user-images.githubusercontent.com/114423260/207097221-2688ac96-51f2-4c73-a5de-5e48d5071da8.png)
+  -  ![image](https://user-images.githubusercontent.com/114423260/207098244-b8cace71-3b2b-4587-b89e-eaaf44184561.png)
+
 
   -   Instal·lació PHP (1p).
   -   Instal·lació Moodle (1p).
