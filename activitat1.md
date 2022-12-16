@@ -30,9 +30,11 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
     
    ![image](https://user-images.githubusercontent.com/114423260/207124475-06679882-78fc-4664-a8cc-e4f28ce30ce4.png)
    
-   ![image](https://user-images.githubusercontent.com/114423260/207125157-7c9beed0-5284-498f-82a3-9b38c1b9a462.png)
+ ![image](https://user-images.githubusercontent.com/114423260/208088122-9e2d11c3-d65a-4cd1-8d1b-2d15bc95c3b1.png)
+ 
+ ![Selección_150](https://user-images.githubusercontent.com/114423260/208088992-6fdc9ce8-1c8f-4f52-9d69-7f24c82f5fcf.png)
 
-![image](https://user-images.githubusercontent.com/114423260/207125448-5e2600ac-0d6f-48ba-ad5d-b359a06bc6c0.png)
+ ![image](https://user-images.githubusercontent.com/114423260/208089175-7f4271d2-a73f-467c-94c6-311cb24eec6f.png)
 
 
 - Documentar els problemes que hem tingut durant la instal·lació (2 punts).
