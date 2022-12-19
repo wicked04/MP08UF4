@@ -39,6 +39,7 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
 ![image](https://user-images.githubusercontent.com/114423260/208477448-b6c6ed36-7ecd-4813-bc05-c2809ae696f3.png)
 ![image](https://user-images.githubusercontent.com/114423260/208477480-460004fd-e1d3-4683-8878-21855907ee85.png)
 ![image](https://user-images.githubusercontent.com/114423260/208477521-b7941079-fc37-4c57-9e58-7c64fbddbfb9.png)
+![image](https://user-images.githubusercontent.com/114423260/208489425-e3e0af2e-f9c0-422c-8444-849737e570aa.png)
 
  
 
