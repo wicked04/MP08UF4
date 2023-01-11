@@ -4,9 +4,24 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
 
 - Explicar els passos seguits durant la instal·lació de Moodle (4 punts).
   -   Instal·lació APACHE (1p).
+  -   Primerament instalarem el apache en la comanda: 
+  -   sudo apt-get install apache2
   -   Instal·lació BBDD (1p).
+  -   Per install el BBDD, he decidit de install MySQL, amb les seguents comandes: 
+  -   sudo apt-get install mysql-server
+  -   sudo mysql -u root -p
   -   Instal·lació PHP (1p).
+  -   Per installar el PHP, seran 3 comandes: 
+  -   sudo apt -y install software-properties-common
+  -   sudo add-apt-repository ppa:ondrej/php 
+  -   sudo apt install libapache2-mod-php7.4 php7.4-mysql. ''7.4'' es la versio que correspon al PHP
   -   Instal·lació Moodle (1p).
+  -   Per fer la installacio i configuracio de Moodle hi han varies comandes a escriure:
+  -  Primerament em de buscar el arixiu de instalacio a la pagina web del moodle y fcar-ho al terminal, despres        en la comanda unzip, la descomprimerem.
+  -  Dintre de /var/ww/html escriurem la comanda sudo mysql -u root -p.
+  -  Continuadament instalarem el el curl y el zip del php y reiniciarem el apache2
+  -  Configurarem el ficher config.php y per ultim instaler un requisits del php
+  -   
 - Inserir les captures de pantalla dels moments delicats de la instal·lació, explicant què es fa a la captura (4 punts).
   -   Instal·lació APACHE (1p).
   -   ![image](https://user-images.githubusercontent.com/114423260/207095733-61712ede-b869-409d-8897-b70a43464758.png)
