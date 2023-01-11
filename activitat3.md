@@ -12,6 +12,10 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 -  Profesor sense edicio
 -  Gestor
 2. Quins rols poden assignar cada tipus d'usuaris?
+-  Profesorat
+-  Alumnat
+-  Profesor sense edicio
+-  Gestor
 3. Crea tres usuaris:
   - Un Professor anomenat Cognom_1_profe.
   - Un Professor anomenat Cognom_2_profe.
@@ -27,7 +31,8 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 9. Afegeix a tots els alumnes a tots els cursos (els 5).
 10. Mostra l'apartat Participants de cada curs.
 11. Què són les Cohorts? 
-12. Perquè serveixen?
-13. Què són els grups?
-14. Perquè serveixen?
-15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+12. 
+13. Perquè serveixen?
+14. Què són els grups?
+15. Perquè serveixen?
+16. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
