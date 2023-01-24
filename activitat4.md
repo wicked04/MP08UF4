@@ -3,22 +3,39 @@
 ![image](https://user-images.githubusercontent.com/110727546/207070729-91000a9b-782a-43ed-8f50-344d9db3ad3f.png)
 
 - Entra a un usuari de Moodle i personalitza el seu perfil amb una imatge.
+- ![image](https://user-images.githubusercontent.com/114423260/214273817-301e784e-5ac0-4f42-b828-852c5000f493.png)
+
 - Canvia la seva contrasenya.
+- ![image](https://user-images.githubusercontent.com/114423260/214273077-47a3699f-3a24-491c-adb1-b4bea2c52745.png)
+
 - Canvia el seu idioma preferit a anglès.
+- ![image](https://user-images.githubusercontent.com/114423260/214274216-f9d6f22a-fdc5-4d41-b81f-d16f85e3972e.png)
+
 - Oculta el seu mail a usuaris sense permisos.
+- ![image](https://user-images.githubusercontent.com/114423260/214274452-d0dfd436-06e5-412c-9305-f90a05dac14f.png)
+
 - Canvia el primer dia de la setmana del calendari a Diumenge.
 - Fes que només els contactes de l'usuari puguin enviar-li missatges.
 
 # Cursos:
 
 - Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+- ![image](https://user-images.githubusercontent.com/114423260/214279572-a2ffe633-ae5a-45f1-af33-2c95bc81f941.png)
+
 - Inscriu a tots els alumnes al curs.
 - Inscriu a tots els professors al curs.
+- ![image](https://user-images.githubusercontent.com/114423260/214279894-f78093b4-a61c-4c47-8787-2eabf1514af0.png)
+
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
+- ![image](https://user-images.githubusercontent.com/114423260/214280154-0f539172-d825-4407-954e-67e6d8fd0fcb.png)
+
 - Fes que dos estudiants fassin consultes al fòrum.
 - Contesta les preguntes amb un perfil de professor.
 - Crea un tema anomenat "Fonaments de Python".
+- ![image](https://user-images.githubusercontent.com/114423260/214280402-2721e4a3-a9b5-4a89-8f90-ed0b8423177c.png)
 - Oculta la resta de temes del curs.
+- ![image](https://user-images.githubusercontent.com/114423260/214280484-8a61ab96-afff-4019-ad83-97418f9ac36a.png)
+
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
 - Fes que els alumnes contestin la tasca (mínim 3).
 - Qualifica la tasca de l'alumnat.
