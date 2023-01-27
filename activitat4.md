@@ -76,6 +76,9 @@ Canvia el tauler d'usuaris.
 - Afegeix a dalt de tot "Cursos visitats recentment".
 - Afegeix a baix de tot "Usuaris en línia".
 
+ -  Aixo es lo que he trobat mes relacionat amb els usuaris:
+ -  ![image](https://user-images.githubusercontent.com/114423260/215033812-d746e0de-37e2-4a01-a73d-0ea7df668820.png)
+
 # Canvia el tema del Moodle:
 
 Vigila que sigui un tema suportat per la teva versió de Moodle:
