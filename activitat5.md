@@ -38,22 +38,7 @@ Si volem migrar el servei o recuperar-lo hem de pensar quina informació estem u
 
 ![image](https://user-images.githubusercontent.com/110727546/212053271-9d1305d7-af49-41a4-b6d5-846816c6bb69.png)
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ### Directori de Moodle: 
 
 El directori amb els fitxers necessaris per què funcioni Moodle. A la nostra pràctica és a /var/www/html/moodle probablement.
@@ -85,9 +70,15 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 - Fareu una còpia de seguretat del vostre curs elaborat a Moodle.
 - Passareu el fitxer al server del company/a de grup.
 - Recuperareu el curs al seu Moodle.
+- ![image](https://user-images.githubusercontent.com/114423260/215131906-2e6916b7-30cc-4ff0-9c7d-db15738604c5.png)
+
+- ![image](https://user-images.githubusercontent.com/114423260/215131860-5b38c7fc-011d-483d-9059-fae8471fd96e.png)
+
 - Comprovareu que tot funciona correctament.
 - Aquest procés serà recíproc entre els dos companys/es de grup.
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
+
+
 
 ## A2 - Migració de Moodle:
 
