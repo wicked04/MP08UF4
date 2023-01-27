@@ -75,6 +75,8 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 - ![image](https://user-images.githubusercontent.com/114423260/215131860-5b38c7fc-011d-483d-9059-fae8471fd96e.png)
 
 - Comprovareu que tot funciona correctament.
+- ![image](https://user-images.githubusercontent.com/114423260/215136975-dd96252e-49c9-4b24-8241-84cf6b47220b.png)
+
 - Aquest procés serà recíproc entre els dos companys/es de grup.
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
 
