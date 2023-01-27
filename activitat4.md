@@ -62,6 +62,10 @@
 # Plugins:
 
 - Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
+- Aquest es el plugin, un com li dono a instalar em surt aixo:
+- ![image](https://user-images.githubusercontent.com/114423260/215032201-81d1e7e7-5dca-4740-944d-ca85d0079df4.png)
+
+Este plugin fa que es pugin veure diferents temes per pagina y pot fer que siguin plegables
 
 # Personalització del tauler d'usuaris:
 
