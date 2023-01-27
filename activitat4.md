@@ -9,7 +9,7 @@
 - ![image](https://user-images.githubusercontent.com/114423260/214273077-47a3699f-3a24-491c-adb1-b4bea2c52745.png)
 
 - Canvia el seu idioma preferit a anglès.
-- ![image](https://user-images.githubusercontent.com/114423260/214274216-f9d6f22a-fdc5-4d41-b81f-d16f85e3972e.png)
+- ![image](https://user-images.githubusercontent.com/114423260/215032698-33dc2860-45eb-420c-9233-55e2316d4d6a.png)
 
 - Oculta el seu mail a usuaris sense permisos.
 - ![image](https://user-images.githubusercontent.com/114423260/214274452-d0dfd436-06e5-412c-9305-f90a05dac14f.png)
