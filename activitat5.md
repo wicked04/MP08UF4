@@ -8,6 +8,7 @@ Per aquest motiu és important conèixer la informació necessària per poder re
 
 També podem fer còpies de seguretat únicament de cursos per passar-los a un altre Moodle o crear un curs idèntic.
 
+
 ## Còpia de seguretat d'un curs:
 
 ![image](https://user-images.githubusercontent.com/110727546/212052894-c02acab1-3004-4a59-be6d-480c5457bb79.png)
@@ -16,6 +17,13 @@ També podem fer còpies de seguretat únicament de cursos per passar-los a un a
 
 
 Les còpies de seguretat d'un únic curs es fan des de'l mateix Moodle.
+![image](https://user-images.githubusercontent.com/114423260/215129210-9574deb0-6ffe-47fa-80f1-2fbb25ce28d7.png)
+![image](https://user-images.githubusercontent.com/114423260/215129230-3d94c3b1-e6f7-483c-877f-6936a6d5d1cc.png)
+![image](https://user-images.githubusercontent.com/114423260/215129246-6df35930-390c-42c9-8eed-a08ebad694d5.png)
+![image](https://user-images.githubusercontent.com/114423260/215129262-eb18d0aa-18f2-4768-b6a1-046b2ab5ce65.png)
+
+
+
 
 Serveixen per duplicar cursos, pasar informació i recursos d'un curs a un altre o migrar un curs a un nou servidor de Moodle.
 
