@@ -83,6 +83,12 @@ Canvia el tauler d'usuaris.
 
 Vigila que sigui un tema suportat per la teva versió de Moodle:
 
+Jo el que faig fer es copiar el ellaç de descargar i dintre de  /var/www/html/moodle/theme vaig escriurel amb un wget, despres el vaig descomprimir
+![image](https://user-images.githubusercontent.com/114423260/215037922-30ea18dd-cc52-4801-9c0e-400d1acea519.png)
+Finalment a la pagina del moodle vaig confirmar tots els processos i faig cambiar el tema:
+![image](https://user-images.githubusercontent.com/114423260/215038195-7964f328-1dae-4ae2-b753-de79f42f4b07.png)
+
+
 [Pàgina amb temes.](https://moodle.org/plugins/browse.php?list=category&id=3)
 [Com canviar el tema.](https://docs.moodle.org/24/en/Installing_a_new_theme)
 
